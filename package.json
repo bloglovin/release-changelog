@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "bluebird": "^2.1.1",
-    "conventional-changelog": "^0.0.12",
+    "conventional-changelog": "git://github.com/hugowetterberg/conventional-changelog.git#patched",
     "optimist": "^0.6.1",
     "release-it": "^0.0.12",
     "semver": "^2.3.0"
